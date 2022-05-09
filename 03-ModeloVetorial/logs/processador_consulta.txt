@@ -1,0 +1,38 @@
+2022-05-09 15:50:29,780 - Processador de Consultas - Iniciando execução do processador de consultas
+2022-05-09 15:50:29,780 - Processador de Consultas - Iniciando leitura de arquivos de configuração
+2022-05-09 15:50:29,780 - Processador de Consultas - Lendo arquivo de configuração ./configfiles/PC.CFG
+2022-05-09 15:50:29,780 - Processador de Consultas - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cfquery.xml
+2022-05-09 15:50:29,780 - Processador de Consultas - Arquivo de consultas: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/consultas.csv
+2022-05-09 15:50:29,780 - Processador de Consultas - Arquivo esperado: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/esperado.csv
+2022-05-09 15:50:29,780 - Processador de Consultas - Leitura do arquivo de configuração concluída.
+2022-05-09 15:50:29,780 - Processador de Consultas - Leitura de arquivos de configuração finalizada
+2022-05-09 15:50:29,780 - Processador de Consultas - Configurando o parser de XML
+2022-05-09 15:50:29,785 - Processador de Consultas - Parser de XML configurado
+2022-05-09 15:50:29,785 - Processador de Consultas - Iniciando processamento de consultas
+2022-05-09 15:50:29,785 - Processador de Consultas - Iniciando o processamento das consultas
+2022-05-09 15:50:29,785 - Processador de Consultas - Escrevendo o corpo do arquivo
+2022-05-09 15:50:29,786 - Processador de Consultas - Processamento de consultas finalizado
+2022-05-09 15:50:29,786 - Processador de Consultas - Processamento de consultas finalizado
+2022-05-09 15:50:29,786 - Processador de Consultas - Iniciando processamento dos documentos esperados
+2022-05-09 15:50:29,786 - Processador de Consultas - Iniciando o processamento dos esperados
+2022-05-09 15:50:29,786 - Processador de Consultas - Escrevendo o corpo do arquivo
+2022-05-09 15:50:29,788 - Processador de Consultas - Processamento de esperados finalizado
+2022-05-09 15:50:29,788 - Processador de Consultas - Processamento dos documentos esperados finalizado
+2022-05-09 15:50:29,788 - Processador de Consultas - Execução do processador de consultas finalizado
+2022-05-09 16:08:14,750 - Processador de Consultas - Iniciando execução do processador de consultas
+2022-05-09 16:08:14,750 - Processador de Consultas - Iniciando leitura de arquivos de configuração
+2022-05-09 16:08:14,750 - Processador de Consultas - Lendo arquivo de configuração ./configfiles/PC.CFG
+2022-05-09 16:08:14,751 - Processador de Consultas - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cfquery.xml
+2022-05-09 16:08:14,751 - Processador de Consultas - Arquivo de consultas: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/consultas.csv
+2022-05-09 16:08:14,751 - Processador de Consultas - Arquivo esperado: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/esperado.csv
+2022-05-09 16:08:14,751 - Processador de Consultas - Leitura do arquivo de configuração concluída.
+2022-05-09 16:08:14,751 - Processador de Consultas - Leitura de arquivos de configuração finalizada
+2022-05-09 16:08:14,751 - Processador de Consultas - Configurando o parser de XML
+2022-05-09 16:08:14,755 - Processador de Consultas - Parser de XML configurado
+2022-05-09 16:08:14,755 - Processador de Consultas - Iniciando o processamento das consultas
+2022-05-09 16:08:14,755 - Processador de Consultas - Escrevendo o corpo do arquivo
+2022-05-09 16:08:14,756 - Processador de Consultas - Processamento de consultas finalizado
+2022-05-09 16:08:14,756 - Processador de Consultas - Iniciando o processamento dos esperados
+2022-05-09 16:08:14,756 - Processador de Consultas - Escrevendo o corpo do arquivo
+2022-05-09 16:08:14,758 - Processador de Consultas - Processamento de esperados finalizado
+2022-05-09 16:08:14,758 - Processador de Consultas - Execução do processador de consultas finalizado
