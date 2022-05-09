@@ -14,4 +14,4 @@ def config_log(file, set_module):
 
 def log(message):
     global module
-    logging.info(f"{module}: {message}")
+    logging.info(f"{module} - {message}")

@@ -1,6 +1,9 @@
 from os import path
+
+from src.utils.format_text import format_text
 from utils.logging_format import config_log, log
 from utils.process_xml import ProcessXML
+from nltk.tokenize import word_tokenize
 
 
 class GeradorListaInvertida:
@@ -14,7 +17,7 @@ class GeradorListaInvertida:
             'LEIA': [],
             'ESCREVA': None
         }
-        config_log(set_module='Gerador de Lista Invertida', file='logs/gerador_lista_invertida.txt')
+        config_log(set_module='Gerador de Lista Invertida', file='../logs/gerador_lista_invertida.txt')
 
     def read_config_file(self):
         log(f'Lendo arquivo de configuração {self.configfile}')
@@ -30,12 +33,26 @@ class GeradorListaInvertida:
         log(f'Leitura do arquivo de configuração concluída.')
 
     def gerar_lista_invertida(self):
+        hash_words = {}
         for file in self.options['LEIA']:
             self.process_xml.config_file_to_parse(file)
             records = self.process_xml.findall('RECORD')
 
-            abstract = records.find('ABSTRACT')
-            print(abstract)
+            for record in records:
+                document_id = record.find('RECORDNUM').text
+                document_abstract = record.find('ABSTRACT')
+                if document_abstract is None:
+                    document_abstract = record.find('EXTRACT')
+
+                if document_abstract is not None:
+                    for word in word_tokenize(document_abstract.text):
+                        formatted_word = format_text(word)
+                        if formatted_word not in hash_words:
+                            hash_words[formatted_word] = []
+                        hash_words[formatted_word].append(document_id.strip())
+
+        for word in hash_words:
+            self.process_xml.write_in_file(f'{word};{hash_words[word]}')
 
     def start(self):
         log('Iniciando execução do gerador de lista invertida')
@@ -49,10 +66,9 @@ class GeradorListaInvertida:
         self.process_xml.open_output_file(file=self.options['ESCREVA'], header='')
         log('Parser de XML configurado')
 
-        self.processar_consultas()
-        self.processar_esperados()
+        self.gerar_lista_invertida()
 
-        log('Execução do processador de consultas finalizado')
+        log('Execução do gerador de lista invertida finalizado')
 
 
 processador_consulta = GeradorListaInvertida(configfile='./configfiles/GLI.CFG',

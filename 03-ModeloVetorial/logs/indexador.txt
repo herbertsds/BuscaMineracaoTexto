@@ -1,0 +1,241 @@
+2022-05-09 19:35:07,947 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:07,947 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:07,947 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:07,947 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:07,947 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:07,947 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:07,947 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:07,949 - Indexador - Execução do indexador finalizado
+2022-05-09 19:35:29,300 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:29,300 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:29,300 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:29,300 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:29,300 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:29,300 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:29,301 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:29,301 - Indexador - Execução do indexador finalizado
+2022-05-09 19:35:38,774 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:38,774 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:38,774 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:38,774 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:38,774 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:38,774 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:38,774 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:38,775 - Indexador - Execução do indexador finalizado
+2022-05-09 19:35:44,334 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:44,334 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:44,334 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:44,334 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:44,334 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:44,334 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:44,334 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:44,335 - Indexador - Execução do indexador finalizado
+2022-05-09 19:35:50,550 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:50,551 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:50,551 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:50,551 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:50,551 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:50,551 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:50,551 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:50,552 - Indexador - Execução do indexador finalizado
+2022-05-09 19:35:57,194 - Indexador - Iniciando execução do indexador
+2022-05-09 19:35:57,194 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:57,194 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:35:57,194 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:57,194 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:35:57,194 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:57,194 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:57,196 - Indexador - Execução do indexador finalizado
+2022-05-09 19:36:46,569 - Indexador - Iniciando execução do indexador
+2022-05-09 19:36:46,569 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:36:46,569 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:36:46,569 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:36:46,569 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:36:46,569 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:36:46,569 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:36:46,570 - Indexador - Execução do indexador finalizado
+2022-05-09 19:36:53,002 - Indexador - Iniciando execução do indexador
+2022-05-09 19:36:53,002 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:36:53,002 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:36:53,002 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:36:53,002 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:36:53,002 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:36:53,002 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:36:53,003 - Indexador - Execução do indexador finalizado
+2022-05-09 19:37:02,599 - Indexador - Iniciando execução do indexador
+2022-05-09 19:37:02,600 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:37:02,600 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:37:02,600 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:37:02,600 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:37:02,600 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:37:02,600 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:37:02,601 - Indexador - Execução do indexador finalizado
+2022-05-09 19:37:10,134 - Indexador - Iniciando execução do indexador
+2022-05-09 19:37:10,134 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:37:10,134 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:37:10,134 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:37:10,134 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:37:10,134 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:37:10,134 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:37:10,134 - Indexador - Execução do indexador finalizado
+2022-05-09 19:39:43,983 - Indexador - Iniciando execução do indexador
+2022-05-09 19:39:43,983 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:39:43,983 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:39:43,983 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:39:43,983 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:39:43,983 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:39:43,983 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:42:29,645 - Indexador - Iniciando execução do indexador
+2022-05-09 19:42:29,645 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:42:29,645 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:42:29,645 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:42:29,645 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:42:29,646 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:42:29,646 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:42:29,692 - Indexador - Execução do indexador finalizado
+2022-05-09 19:42:53,496 - Indexador - Iniciando execução do indexador
+2022-05-09 19:42:53,496 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 19:42:53,496 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 19:42:53,496 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:42:53,496 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 19:42:53,496 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 19:42:53,497 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 19:42:53,528 - Indexador - Execução do indexador finalizado
+2022-05-09 20:01:04,192 - Indexador - Iniciando execução do indexador
+2022-05-09 20:01:04,192 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:01:04,192 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:01:04,192 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:01:04,192 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:01:04,192 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:01:04,192 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:01:04,192 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:01:42,154 - Indexador - Iniciando execução do indexador
+2022-05-09 20:01:42,154 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:01:42,154 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:01:42,155 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:01:42,155 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:01:42,155 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:01:42,155 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:01:42,155 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:01:42,775 - Indexador - Arquivo convertido
+2022-05-09 20:01:42,775 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:01:42,806 - Indexador - O número total de documentos é 1215
+2022-05-09 20:01:42,806 - Indexador - Execução do indexador finalizado
+2022-05-09 20:20:10,750 - Indexador - Iniciando execução do indexador
+2022-05-09 20:20:10,750 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:20:10,750 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:20:10,750 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:20:10,750 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:20:10,750 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:20:10,750 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:20:10,750 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:20:11,357 - Indexador - Arquivo convertido
+2022-05-09 20:20:11,357 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:20:11,385 - Indexador - O número total de documentos é 1215
+2022-05-09 20:21:44,201 - Indexador - Iniciando execução do indexador
+2022-05-09 20:21:44,202 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:21:44,202 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:21:44,202 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:21:44,202 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:21:44,202 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:21:44,202 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:21:44,202 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:21:44,812 - Indexador - Arquivo convertido
+2022-05-09 20:21:44,812 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:21:44,840 - Indexador - O número total de documentos é 1215
+2022-05-09 20:21:44,948 - Indexador - Execução do indexador finalizado
+2022-05-09 20:36:22,029 - Indexador - Iniciando execução do indexador
+2022-05-09 20:36:22,029 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:36:22,029 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:36:22,029 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:36:22,029 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:36:22,029 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:36:22,029 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:36:22,029 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:36:22,651 - Indexador - Arquivo convertido
+2022-05-09 20:36:22,651 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:36:22,679 - Indexador - O número total de documentos é 1215
+2022-05-09 20:36:48,309 - Indexador - Iniciando execução do indexador
+2022-05-09 20:36:48,310 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:36:48,310 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:36:48,310 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:36:48,310 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:36:48,310 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:36:48,310 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:36:48,310 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:36:48,900 - Indexador - Arquivo convertido
+2022-05-09 20:36:48,900 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:36:48,928 - Indexador - O número total de documentos é 1215
+2022-05-09 20:36:48,928 - Indexador - Execução do indexador finalizado
+2022-05-09 20:37:01,053 - Indexador - Iniciando execução do indexador
+2022-05-09 20:37:01,053 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:37:01,054 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:37:01,054 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:37:01,054 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:37:01,054 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:37:01,054 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:37:01,054 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:37:01,660 - Indexador - Arquivo convertido
+2022-05-09 20:37:01,660 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:37:01,688 - Indexador - O número total de documentos é 1215
+2022-05-09 20:37:01,688 - Indexador - Execução do indexador finalizado
+2022-05-09 20:38:04,067 - Indexador - Iniciando execução do indexador
+2022-05-09 20:38:04,067 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:38:04,067 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:38:04,068 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:38:04,068 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:38:04,068 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:38:04,068 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:38:04,068 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:38:04,685 - Indexador - Arquivo convertido
+2022-05-09 20:38:04,685 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:38:04,713 - Indexador - O número total de documentos é 1215
+2022-05-09 20:38:04,884 - Indexador - Execução do indexador finalizado
+2022-05-09 20:38:52,028 - Indexador - Iniciando execução do indexador
+2022-05-09 20:38:52,028 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:38:52,028 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:38:52,028 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:38:52,028 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:38:52,028 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:38:52,028 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:38:52,028 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:38:52,645 - Indexador - Arquivo convertido
+2022-05-09 20:38:52,645 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:38:52,673 - Indexador - O número total de documentos é 1215
+2022-05-09 20:38:52,956 - Indexador - Execução do indexador finalizado
+2022-05-09 20:39:05,542 - Indexador - Iniciando execução do indexador
+2022-05-09 20:39:05,542 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:39:05,542 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:39:05,542 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:39:05,542 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:39:05,542 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:39:05,542 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:39:05,542 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:39:06,157 - Indexador - Arquivo convertido
+2022-05-09 20:39:06,157 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:39:06,184 - Indexador - O número total de documentos é 1215
+2022-05-09 20:39:06,456 - Indexador - Execução do indexador finalizado
+2022-05-09 20:39:23,105 - Indexador - Iniciando execução do indexador
+2022-05-09 20:39:23,105 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:39:23,105 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:39:23,105 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:39:23,105 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:39:23,105 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:39:23,105 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:39:23,105 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:39:23,729 - Indexador - Arquivo convertido
+2022-05-09 20:39:23,729 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:39:23,757 - Indexador - O número total de documentos é 1215
+2022-05-09 20:39:24,027 - Indexador - Execução do indexador finalizado
+2022-05-09 20:39:34,556 - Indexador - Iniciando execução do indexador
+2022-05-09 20:39:34,556 - Indexador - Iniciando leitura de arquivos de configuração
+2022-05-09 20:39:34,557 - Indexador - Lendo arquivo de configuração ./configfiles/INDEX.CFG
+2022-05-09 20:39:34,557 - Indexador - Arquivo a ser lido: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 20:39:34,557 - Indexador - Arquivo com modelo: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/modelo.json
+2022-05-09 20:39:34,557 - Indexador - Leitura do arquivo de configuração concluída.
+2022-05-09 20:39:34,557 - Indexador - Leitura de arquivos de configuração finalizada
+2022-05-09 20:39:34,557 - Indexador - Convertendo csv para um dicionário em python
+2022-05-09 20:39:35,185 - Indexador - Arquivo convertido
+2022-05-09 20:39:35,186 - Indexador - Calculando o número total de documentos do modelo
+2022-05-09 20:39:35,213 - Indexador - O número total de documentos é 1215
+2022-05-09 20:39:35,382 - Indexador - Execução do indexador finalizado

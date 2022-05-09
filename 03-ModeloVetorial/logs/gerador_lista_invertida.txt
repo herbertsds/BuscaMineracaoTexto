@@ -163,3 +163,13 @@
 2022-05-09 17:04:52,914 - Gerador de Lista Invertida - Configurando o parser de XML
 2022-05-09 17:04:52,914 - Gerador de Lista Invertida - Parser de XML configurado
 2022-05-09 17:04:53,965 - Gerador de Lista Invertida - Execução do gerador de lista invertida finalizado
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Iniciando execução do gerador de lista invertida
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Iniciando leitura de arquivos de configuração
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Lendo arquivo de configuração ./configfiles/GLI.CFG
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Arquivos a serem lidos: ['/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf74.xml', '/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf75.xml', '/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf76.xml', '/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf77.xml', '/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf78.xml', '/root/Doutorado/BMT/Exercicios/03-ModeloVetorial/src/data/cf79.xml']
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Arquivo de saída: /root/Doutorado/BMT/Exercicios/03-ModeloVetorial/RESULT/lista_invertida.csv
+2022-05-09 19:35:02,984 - Gerador de Lista Invertida - Leitura do arquivo de configuração concluída.
+2022-05-09 19:35:02,985 - Gerador de Lista Invertida - Leitura de arquivos de configuração finalizada
+2022-05-09 19:35:02,985 - Gerador de Lista Invertida - Configurando o parser de XML
+2022-05-09 19:35:02,985 - Gerador de Lista Invertida - Parser de XML configurado
+2022-05-09 19:35:04,052 - Gerador de Lista Invertida - Execução do gerador de lista invertida finalizado
