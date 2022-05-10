@@ -1,0 +1,9 @@
+{
+    termo1: {
+        documento1: tf * idf
+        documento2: tf * idf
+        ...
+        documentoN: tf * idf
+    }
+    ...
+}
